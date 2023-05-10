@@ -73,3 +73,4 @@ calcular_salario(7, 4.5)
 calcular_tinta(15)
 calcular_compra_tinta(62)
 calcular_tempo_download(534, 43)
+

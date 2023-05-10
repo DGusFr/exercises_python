@@ -43,7 +43,7 @@ def calcular_salario():
     salario = valor_hora * horas_trabalhadas
     print("O seu salário no referido mês é R$", salario)
 
-
+"""
 alo_mundo()
 pedir_numero()
 soma_numeros()
@@ -52,3 +52,4 @@ converter_metros_para_centimetros()
 calcular_area_do_circulo()
 calcular_area_do_quadrado()
 calcular_salario()
+"""

@@ -1,4 +1,4 @@
-def maior_numero(a, b):
+def maior_num(a, b):
     if a > b:
         return a
     else:
